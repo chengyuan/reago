@@ -4,6 +4,7 @@ reago
 an assembly tool for 16S ribosomal RNA recovery from metagenomic data
 
 Dependencies:
+
 1. Infernal 1.1.1
 2. Readjoiner 1.2
 
