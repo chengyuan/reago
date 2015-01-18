@@ -14,7 +14,7 @@ python emirge.py output_dir
         --phred33
 
 - MetaVelvet
-velveth out-dir 51   -fasta -shortPaired input_data.fa
+velveth out-dir 55   -fasta -shortPaired input_data.fa
 velvetg out-dir -exp_cov auto
 meta-velvetg out-dir
 
