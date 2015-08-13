@@ -37,7 +37,7 @@ Optional parameters:
 
 example: python reago.py make_sample/sample/filetered.fasta sample_out -l 101
 
-Note:
+**Note:**
 
 REAGO assumes the sequence names of a read pair to be
 
