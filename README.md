@@ -1,4 +1,5 @@
 REAGO 1.1 has been released at https://github.com/chengyuan/reago-1.1
+=====
 REAGO 1.0 is no longer supported.
 =====
 
